@@ -1,7 +1,5 @@
 # Academic writing website project
 
-![icon](https://github.cs.adelaide.edu.au/MCI-Projects-2021/Team-23/blob/master/coding%20base/client/src/assets/img/logo.png?raw=true)
-
 Welcome to Team 23 GitHub Website! In here, you can see our project log book and project code!
 
 For your informations, the timetable folder contains each group member's weekly timetable, it is in .xsl format.
