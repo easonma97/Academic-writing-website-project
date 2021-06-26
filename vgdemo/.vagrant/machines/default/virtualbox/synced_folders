@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv":{"guestpath":"/srv","hostpath":"C:/Users/70519/OneDrive/server","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/70519/OneDrive/vgdemo","disabled":false,"__vagrantfile":true}}}
