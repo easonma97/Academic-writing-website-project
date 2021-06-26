@@ -1,0 +1,8 @@
+node_modules
+.vagrant
+.vscode
+uploads
+academic_phrase_bank.xls
+finetuned_BERT_epoch_20.model
+venv
+.idea

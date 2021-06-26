@@ -1,0 +1,42 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 23rd MCI group Project client meeting will be held in room at 1.30 pm on 
+Friday 5th March 
+Agenda 
+Chair: YiSheng Ma 
+Secretary: JiLong Li Te Gong 
+1 Presentation 
+None. 
+1.2 Problems and solutions 
+Since this is the first meeting with the client, we wait our client to talk about the 
+project. 
+1.1 Functional requirements and Presentations in Last Meeting 
+Our supervisor has distributed a project to us, which is about writing an academic 
+writing suggestion website. It has used the NLP technique and basic knowledge 
+about the online framework. 
+Initially we had problem with what technique we should use in this project.  Later 
+we checked in stack overflow  and  find out that we can use react as a  platform to 
+control our front-end and Node.js can be considered as a back-end. For the machine 
+learning part, we still need to check to our supervisor. 
+2 Requirements Elicitation 
+2.1 Create a database to store customer’s information. 
+2.2 Interface which allows users to log in and post  deals. 
+ 
+ 
+ 
+ 
+ 
+2.3 Create a new page which will display the list of all the functionality our website 
+have. 
+2.4 Create a collection page for users to store their favorite sentences. 
+2.5 Further requirement will be adjust by supervisor 
+3 Other Issues 
+How to divide jobs between group members, when to submit the milestone I. and so 
+on. 
+Note: Next meeting will be held on 19th March 2021 
